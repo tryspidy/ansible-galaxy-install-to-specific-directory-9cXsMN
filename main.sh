@@ -1,0 +1,1 @@
+ansible-galaxy install example_role -p ~/DevOps/IaC/roles
